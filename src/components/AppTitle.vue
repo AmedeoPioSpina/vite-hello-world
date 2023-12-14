@@ -1,4 +1,7 @@
-<script setup>
+<script>
+export default {
+    name: "AppTitle"
+  }
 </script>
 
 <template>

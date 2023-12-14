@@ -19,6 +19,5 @@
     }
     h2{
         text-align: center;
-        vertical-align: ;
     }
 </style>
